@@ -1,3 +1,7 @@
 .active {
   color: green;
 }
+
+.cardShow img {
+  width: 300px;
+}
